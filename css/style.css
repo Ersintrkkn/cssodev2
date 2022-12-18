@@ -1,0 +1,41 @@
+.search {
+    background-color: #c8c8d488;
+    height: 65px;
+    text-align: center;
+    margin-top: 0%;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.card {
+    background-color: #7EE5DA;
+    width: 350px;
+    height: 150px;
+    text-align: left;
+    }
+ .grid {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    gap: 20%;
+    line-height: 25px;
+    margin-right: 54px;
+    margin-left: 54px;
+    
+
+ }
+  .grid div {
+    background-color: #7EE5DA;
+    margin-top: -15px;
+    height: 65px;
+    
+  }
+  .cnt a {
+    font-size: 12px;
+    
+    
+    
+    
+  }
+  
+    
+    
